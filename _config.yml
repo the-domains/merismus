@@ -1,0 +1,28 @@
+name: Merismus
+favicon: null
+layout_spectrum: 0.4282290900591761
+typography_spectrum: 0.0312856906093657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10555206192657351
+  lightness: 0.9857537678908557
+  saturation: 0.07071891566738486
+  rhythmicContrast: 0.15858821826986969
+purpose: []
