@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[This and that]]></title>
         <description><![CDATA[This and that]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/merismus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 04:48:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 04:57:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/merismus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Target-Action in Swift]]></title>
-            <description><![CDATA[<article><h1>Target-Action in Swift</h1><p>How to use object methods as stored closures.</p></article>]]></description>
-            <link>undefinedtarget-action-in-swift/index.html</link>
+            <description><![CDATA[<article><h1>Target-Action in Swift</h1><p>Save the target's method as a property of the calling object and call it like a closure when you activate the action. Thanks to ARC the target object doesn't need to be stored.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb7e0419-24ed-43da-ae5f-d862e1669120.png"></article>]]></description>
+            <link>https://thegrid.ai/merismus/target-action-in-swift/index.html</link>
             <guid isPermaLink="false">7af3c8e8-107c-48a7-82ac-12a8e26650a8</guid>
-            <pubDate>Fri, 15 Apr 2016 04:48:24 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 04:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
