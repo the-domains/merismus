@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Save the target's method as a property of the calling object and call it like a closure when you activate the action. Thanks to ARC the target object doesn't need to be stored."
-datePublished: '2016-04-15T05:02:09.712Z'
-dateModified: '2016-04-15T04:59:55.422Z'
+datePublished: '2016-04-15T05:14:39.555Z'
+dateModified: '2016-04-15T05:02:16.597Z'
 title: Target-Action in Swift
 author: []
 sourcePath: _posts/2016-04-15-working-on-implementing-the-target-action-cocoa-design-patte.md
