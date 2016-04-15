@@ -1,14 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Working on implementing the Target-Action Cocoa design pattern with Swift...
-datePublished: '2016-04-15T04:17:33.182Z'
-dateModified: '2016-04-15T04:16:05.982Z'
-title: ''
+description: How to use object methods as stored closures.
+datePublished: '2016-04-15T04:48:24.017Z'
+dateModified: '2016-04-15T04:34:00.727Z'
+title: Target-Action in Swift
 author: []
 sourcePath: _posts/2016-04-15-working-on-implementing-the-target-action-cocoa-design-patte.md
 published: true
@@ -18,8 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: target-action-in-swift/index.html
+_type: Article
 
 ---
-Working on implementing the Target-Action Cocoa design pattern with Swift...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5b8cb42-00b2-4419-a164-353d3fca3df2.png)
+# Target-Action in Swift
